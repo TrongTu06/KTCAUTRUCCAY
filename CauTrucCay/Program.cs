@@ -5,8 +5,8 @@ using System.Text;
 using System.Threading.Tasks;
 
 /*
-  MSSV:
-  Ho va ten: 
+  MSSV:2421160016  
+  Ho va ten: Nguyễn Bùi Trọng Tú
  */
 
 namespace CauTrucCay
